@@ -14,4 +14,11 @@ Aplicación en Python con Tkinter para calcular costos de almacenamiento, instan
 ## 📌 Cómo Ejecutarlo  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/IsaiasDev-commits/calculadora_nube.git
+   git clone
+   https://github.com/IsaiasDev-commits/calculadora_nube.git
+
+   Entra en la carpeta del proyecto
+   cd calculadora_nube
+
+   Ejecuta el script en Python
+   python calculadora_nube.py
